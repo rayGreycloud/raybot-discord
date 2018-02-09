@@ -1,0 +1,2 @@
+# RayBot 
+## a discord bot
